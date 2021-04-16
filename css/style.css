@@ -197,3 +197,19 @@ img {
     height: 100px;
     background-size: cover;
 }
+
+
+/* Footer */
+
+.social a {
+    margin: 020px;
+    transition: transform 0.1s ease-in;
+}
+
+.social a :hover {
+    transform: translateY(-15px);
+}
+
+.footer {
+    margin-bottom: 0;
+}
